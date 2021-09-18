@@ -1,0 +1,3 @@
+var x int   // Type APRES l'identifiant
+x= 42      // Variable assignée après la déclaration
+x := 24     // Variable déclarée ET assignée   c'est un racourcie pour pas a avoir a déclarée l'identifiant et ensuite l'assignation
